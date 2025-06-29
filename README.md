@@ -18,8 +18,6 @@ dergi makalesi biçiminde yayınlanmıştır.
 | `cad/wheels/`   | Yedi PU‑kaplı tahrik tekeri modeli | **Sümeyye Alp** |
 | `cad/lift/`     | Üç makaslı kaldırma tasarımı | **Zeynep Işık**, **Görkem B. Taşkın** |
 | `cad/swerve-load-robot/` | Nihai bütünleşik montaj (.SLDASM) | Tüm ekip |
-| `analysis/ansys/` | ANSYS Workbench projeleri (.wbpj) | **Zeynep Işık** |
-| `analysis/reports/` | PDF/PNG gerilim‑deformasyon özetleri | Tüm ekip |
 | `docs/` | • **Makale**: Mısır, O., Beyazlı, M., Alp, S., Taşkın, G. B., *vd.* (2024). *Design and Mechanical Analyses of Mobile Robot with Swerve Driving System*. **Türk Doğa ve Fen Dergisi, 13(4), 66‑84.** doi:10.46810/tdfd.1506516  <br>• **Bildiri**: Beyazlı, M., Alp, S., Taşkın, G. B., Işık, Z. (2024). *Dört Tekerlekli Yük Taşıma Özelliğine Sahip Otonom Mobil Robotun Geliştirilmesi.* UEBAS’24, 16‑17 Mart 2024.  |
 
 
