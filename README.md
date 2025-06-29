@@ -20,7 +20,7 @@ dergi makalesi biçiminde yayınlanmıştır.
 | `cad/swerve-load-robot/` | Nihai bütünleşik montaj (.SLDASM) | Tüm ekip |
 | `analysis/ansys/` | ANSYS Workbench projeleri (.wbpj) | **Zeynep Işık** |
 | `analysis/reports/` | PDF/PNG gerilim‑deformasyon özetleri | Tüm ekip |
-| `docs/` | • “Swerve Sürüş Sistemine Sahip Mobil Otonom Robot Tasarımı ve Mekanik Analizleri”.docx  <br>• “Dört Tekerlekli Yük Taşıma Özelliğine Sahip Otonom Mobil Robotun Geliştirilmesi”.pptx  <br>• “Sunum Özeti – Dört Tekerlekli Yük Taşıma Özelliğine Sahip Otonom Mobil Robotun Geliştirilmesi”.docx | Editör: **Furkan Beyazlı** |
+| `docs/` | • “Swerve Sürüş Sistemine Sahip Mobil Otonom Robot Tasarımı ve Mekanik Analizleri”.docx  <br>• “Dört Tekerlekli Yük Taşıma Özelliğine Sahip Otonom Mobil Robotun Geliştirilmesi”.pptx  <br>• “Sunum Özeti – Dört Tekerlekli Yük Taşıma Özelliğine Sahip Otonom Mobil Robotun Geliştirilmesi”.docx | Mısır, O., Beyazlı, M., Alp, S., Taşkın, G. B., vd. (2024). Design and Mechanical Analyses of Mobile Robot with Swerve Driving System. Türk Doğa Ve Fen Dergisi, 13(4), 66-84. https://doi.org/10.46810/tdfd.1506516|
 
 ---
 
