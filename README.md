@@ -46,9 +46,6 @@ swerve-load-robot/
 │   ├── wheels/              # Teker varyasyonları
 │   ├── lift/                # Kaldırma mekanizmaları
 │   └── swerve-load-robot/   # Nihai montaj (.SLDASM)
-├── analysis/
-│   ├── ansys/               # *.wbpj projeleri
-│   └── reports/             # PDF/PNG sonuçlar
 ├── docs/
 │   ├── Swerve...Robot_Tasarımı.docx
 │   ├── Dört_Tekerlekli_Yük_Taşıma_Robot.pptx
